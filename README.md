@@ -1,1 +1,1 @@
-# price_pridiction
+# price_prediction
